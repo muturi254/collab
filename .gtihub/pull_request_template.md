@@ -1,5 +1,2 @@
-[] Bug fix
-
-[] feature
-
-[X] test
+- [X] test
+- [ ] jiji
